@@ -1,0 +1,10 @@
+var paletesContendoCaixasDeMorangos = 35
+var paletesContendoCaixasDelaranjas = 25
+var paletesContendoCaixasDeBananas = 20
+var paletesContendoCaixasDeTangerinas = 20
+var paletesContendoCaixasDeUvas = 25
+var paletesContendoCaixasDeMangas = 20
+var totalDePaletes = 6
+var totalFrutas = paletesContendoCaixasDeMorangos + paletesContendoCaixasDeLaranjas +
+paletesContendoCaixasDeBananas + paletesContendoCaixasDeTangerinas + paletesContendoCaixasDeUvas + paletesContendoCaixasDeMangas
+var mediaDeFrutas = TotalDeFrutas / totalDePaletes 
